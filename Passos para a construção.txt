@@ -1,0 +1,7 @@
+Passos para o desenvolvimento: 
+
+1- Estudo da forma mais viável e qual sera o framework ou tecnologia a ser usada para o desenvolvimento. (xamarin, ionic, android studio, etc.
+
+2- Estudo da tecnologia bluetooth.
+
+3- 
